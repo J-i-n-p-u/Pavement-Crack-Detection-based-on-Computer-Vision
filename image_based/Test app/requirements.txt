@@ -1,0 +1,6 @@
+plotly~=5.8.0
+pandas~=1.4.2
+dash~=2.4.1
+numpy~=1.22.4
+opencv-python~=4.5.5.64
+tensorflow~=2.9.0
