@@ -4,5 +4,5 @@ An end-to-end pavement crack detection toolkit is developed based on computer vi
 
 ## Image-based Crack Detection Toolkit
 
-### Run the Train Model Application
-### Run the Test Model Application
+  ### Run the Train Model Application
+  ### Run the Test Model Application
