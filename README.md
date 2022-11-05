@@ -4,6 +4,7 @@ An end-to-end pavement crack detection toolkit is developed based on computer vi
 
 <details>
     <summary><h2> Image-based Crack Detection Toolkit</h2></summary>
+    
 ### Run the Train Model Application
 This is a demo for training a crack detection model with the app
 <video src='https://user-images.githubusercontent.com/71452866/200090431-e30d0f81-ce45-4f7c-b1d8-8d9a22b1c2b2.mp4' width="10%">
