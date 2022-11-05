@@ -14,11 +14,3 @@ This is a demo for testing a crack detection model with the app
 
 
 
-
-
-
-https://user-images.githubusercontent.com/71452866/200091078-e8c79071-d213-490f-96d7-663751d1456a.mp4
-
-
-
-
