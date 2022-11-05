@@ -11,6 +11,4 @@ This is a demo for training a crack detection model with the app
 ### Run the Test Model Application
 This is a demo for testing a crack detection model with the app
 <video src='https://user-images.githubusercontent.com/71452866/200090397-88486528-b0ac-4e93-b518-92bf6979a0dd.mp4' width=50/>
-
-
-
+</details>
